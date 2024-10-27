@@ -25,3 +25,10 @@
     justify-content: space-between;
     align-items: center;
 }
+.pagination{
+    text-align: center;
+  
+  }
+  .pagination button{
+    margin-right: 20px;
+  }
